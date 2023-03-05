@@ -36,6 +36,8 @@ a.widget-link.search-link {
         position: relative;
         .widget-button.btn {
           background: #198754;
+          border-radius: 0 3px 3px 0;
+          border-right: 1px solid #198754;
           padding: 0.25em;
           position: absolute;
           right: 0em;
