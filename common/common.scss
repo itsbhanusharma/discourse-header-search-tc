@@ -13,8 +13,8 @@ a.widget-link.search-link {
 }
 
 .floating-search-input {
-  display: flex;
-  align-content: flex-end;
+  position: absolute;
+  right: 0;
   width: 350px;
   margin: 0 auto;
   .search-banner {
