@@ -13,8 +13,7 @@ a.widget-link.search-link {
 }
 
 .floating-search-input {
-  position: absolute;
-  right: 0;
+  float: right;
   width: 350px;
   margin: 0 auto;
   .search-banner {
