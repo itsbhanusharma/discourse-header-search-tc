@@ -13,7 +13,7 @@ a.widget-link.search-link {
 }
 
 .floating-search-input {
-  width: 50%;
+  width: 350px;
   margin: 0 auto;
   .search-banner {
     height: 100%;
@@ -41,6 +41,7 @@ a.widget-link.search-link {
           pointer-events: none;
           .d-icon {
             color: #ffffff;
+            padding: 0.25em;
           }
         }
         .searching {
@@ -50,7 +51,7 @@ a.widget-link.search-link {
         .search-input {
           box-sizing: border-box;
           height: 60%;
-          width: 340px;
+          width: 100%;
           display: flex;
           padding: 0;
           border-radius: 0.25em;
