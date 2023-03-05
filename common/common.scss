@@ -15,7 +15,8 @@ a.widget-link.search-link {
 .floating-search-input {
   float: right;
   width: 350px;
-  margin: 0 0 auto;
+  margin: 0 auto;
+  margin-right: 0;
   .search-banner {
     height: 100%;
     &-inner.wrap {
